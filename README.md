@@ -2,8 +2,6 @@
   
 
 ### <div align="center">Front-end Developer</div>  
-  
----
 
 - 📱 Creating an adaptive, responsive, cross-browser interface using different technologies: CSS Modules, Tailwind, SCSS, Styled Components.   
   

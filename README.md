@@ -3,6 +3,7 @@
 
 ### <div align="center">Front-end Developer</div>  
   
+----
 
 - 📱 Creating an adaptive, responsive, cross-browser interface using different technologies: CSS Modules, Tailwind, SCSS, Styled Components.   
   
@@ -29,7 +30,8 @@
 
 
 
-### Skills  
+## Skills
+----
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="75" /></a>  

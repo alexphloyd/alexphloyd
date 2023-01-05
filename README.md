@@ -7,7 +7,10 @@
   
 
 - ⚡ Clean interface architecture following SOLID principles.  
-  
+
+
+- 🎀 Smooth animations with Framer-motion.  
+
 
 - 📶 Modern Data-fetching approaches: SSG, SSR, ISR, Client-side with skeletons.  
   

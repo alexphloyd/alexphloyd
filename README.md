@@ -1,4 +1,4 @@
-# **<div align="center">Hi 👋, I'm Alex</div>**  
+### **<div align="center">Hi 👋, I'm Alex</div>**  
   
 
 ## <div align="center">Front-end Developer</div>  

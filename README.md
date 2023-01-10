@@ -18,10 +18,10 @@
 - ♨️ WebSocket client applications with Socket.io.  
   
 
-- 🔖 Typesafe APIs with tRPC  
+- 🔖 Typesafe APIs.  
   
 
-- 📝 Testing Code with Jest  
+- 📝 Testing Code with Jest.
   
 
 - ⏳ Scrum concepts.  

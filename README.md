@@ -21,7 +21,7 @@
 - 🔖 Typesafe APIs.  
   
 
-- 📝 Testing Code with Jest.
+- 📝 Jest for testing code.
   
 
 - ⏳ Scrum concepts.  

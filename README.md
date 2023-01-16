@@ -24,7 +24,7 @@
 - 📝 Jest for testing code.
   
 
-- ⏳ Scrum concepts.  
+- ⏳ Agile methodology (Scrum).
   
 
 <br/>  

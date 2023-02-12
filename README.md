@@ -9,16 +9,14 @@
 - ⚡ Clean interface architecture following SOLID principles.  
 
 
-- 🎀 Smooth animations with Framer-motion.  
-
-
 - 📶 Modern Data-fetching approaches: SSG, SSR, ISR, Client-side with skeletons.  
+
+
+- 🎀 Smooth animations.  
+
   
 
 - ♨️ WebSocket client applications with Socket.io.  
-  
-
-- 🔖 Typesafe APIs.  
   
 
 - 📝 Jest for testing code.
@@ -40,7 +38,7 @@
 - <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="20" /></a> NextJs (+ BlitzJs toolkit)
 
 
--  <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="20" /></a>  Tailwind, <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="20" /></a> SASS, CSS Modules, Styled Components
+-  <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="20" /></a>  Tailwind, SASS, CSS Modules, Styled Components
 
 
 - <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="20" /></a>  Prisma, <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="20" /></a> PostgreSQL
@@ -54,10 +52,7 @@
 <div align="center">
 <a href="https://github.com/alexphloyd" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/alexphloyd" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a> 
 </div>  
 
 <br />

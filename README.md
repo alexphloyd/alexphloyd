@@ -1,12 +1,18 @@
-### **<div align="center">Hi 👋, I'm Alex</div>**  
+### **<div align="center">Hi, I'm Alex, Front-End Developer</div>**  
   
 
-## <div align="center">Front-end Developer</div>  
+## <div align="center">Experienced with</div>  
 
 - 📱 Creating an adaptive, responsive, cross-browser interface using different technologies: CSS Modules, Tailwind, SCSS, Styled Components.   
   
 
-- ⚡ Clean interface architecture following SOLID principles.  
+- ⚡ Clean architecture following SOLID and core React principles.  
+
+
+- ⍟ Familiarity with newer specifications of EcmaScript.
+
+
+- ⭐ Familiarity with RESTful APIs.
 
 
 - 📶 Modern Data-fetching approaches: SSG, SSR, ISR, Client-side with skeletons.  
@@ -14,9 +20,8 @@
 
 - 🎀 Smooth animations.  
 
-  
 
-- ♨️ WebSocket client applications with Socket.io.  
+- ♨️ WebSocket client applications (Socket.io).  
   
 
 - 📝 Jest for testing code.

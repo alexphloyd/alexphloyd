@@ -9,7 +9,7 @@
 - ⚡ Clean architecture following SOLID and core React principles.  
 
 
-- ⍟  Familiarity with newer specifications of EcmaScript.
+- ⍟   Familiarity with newer specifications of EcmaScript.
 
 
 - ⭐ Familiarity with RESTful APIs.

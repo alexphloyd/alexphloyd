@@ -3,7 +3,7 @@
 
 ## <div align="center">Experienced with</div>  
 
-- 📱 Creating an adaptive, responsive, cross-browser interface using different technologies: CSS Modules, Tailwind, SCSS, Styled Components.   
+- 📱 Creating an adaptive, responsive, cross-browser interface using different technologies: CSS Modules, Tailwind, SCSS, Styled Components. Understanding of good UI/UX best practices   
   
 
 - ⚡ Clean architecture following SOLID and core React principles.  

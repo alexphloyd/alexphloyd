@@ -9,10 +9,10 @@
 - ⚡ Clean architecture following SOLID and core React principles.  
 
 
-- ⍟   Familiarity with newer specifications of EcmaScript.
+- 🎓 Familiarity with newer specifications of EcmaScript.
 
 
-- ⭐ Familiarity with RESTful APIs.
+- ⭐ Builing RESTful APIs using NextJS API Routes .
 
 
 - 📶 Modern Data-fetching approaches: SSG, SSR, ISR, Client-side with skeletons.  

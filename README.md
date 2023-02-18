@@ -18,13 +18,13 @@
 - 📶 Modern Data-fetching approaches: SSG, SSR, ISR, Client-side with skeletons.  
 
 
-- 🎀 Smooth animations.  
+- 🎀 Familiarity with Animation Libraries.  
 
 
 - ♨️ WebSocket client applications (Socket.io).  
   
 
-- 📝 Jest for testing code.
+- 🔧 Jest for testing code.
   
 
 - ⏳ Agile methodology (Scrum).

@@ -3,7 +3,7 @@
 
 ## <div align="center">Experienced with</div>  
 
-- 📱 Creating an adaptive, responsive, cross-browser interface using different technologies: CSS Modules, Tailwind, SCSS, Styled Components. Understanding of good UI/UX best practices.
+- 📱 Creating an adaptive, responsive, cross-browser interface.
   
 
 - ⚡ Clean architecture following SOLID and core React principles.  
@@ -12,13 +12,13 @@
 - 🎓 Familiarity with newer specifications of EcmaScript.
 
 
-- ⭐ Builing RESTful APIs using NextJS API Routes .
+- ⭐ Building RESTful APIs (NextJS, TypeScript, Zod)
 
 
-- 📶 Modern Data-fetching approaches: SSG, SSR, ISR, Client-side with skeletons.  
+- 📶 Modern Data-fetching approaches: SSG, SSR, ISR, CSR.  
 
 
-- 🎀 Familiarity with Animation Libraries.  
+- 🎀 Familiarity with Animation Libraries (Framer-Motion, React-spring).  
 
 
 - ♨️ WebSocket client applications (Socket.io).  

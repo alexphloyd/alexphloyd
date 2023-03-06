@@ -3,34 +3,31 @@
 
 ## <div align="center">Experienced with</div>  
 
-- 📱 Creating an adaptive, responsive, cross-browser interface.
+▸ Creating an adaptive, responsive, cross-browser interface.
   
 
-- ⚡ Clean architecture following SOLID and core React principles.  
+▸ Clean architecture following SOLID and core React principles.  
 
 
-- 🎓 Familiarity with newer specifications of EcmaScript.
+▸ Newer specifications of EcmaScript.
 
 
-- ⭐ Building RESTful APIs (NextJS, TypeScript, Zod-Validation).
+▸ Building RESTful APIs (NextJS, TypeScript, Zod)
 
 
-- 📶 Server-Side Rendering.
+▸ Data-Fetching: React-query, Axios. 
 
 
-▸ Data-Fetching: React-Query, Axios.
+▸ Animation Libraries (Framer-Motion, React-spring).  
 
 
-- 🎀 Familiarity with Animation Libraries (Framer-Motion, React-spring).  
-
-
-- ♨️ WebSocket client applications (Socket.io).  
+▸ WebSocket client applications (Socket.io).  
   
 
-- 🔧 Jest for testing code.
+▸ Jest.
   
 
-- ⏳ Agile methodology (Scrum).
+▸ Agile methodology (Scrum).
   
 
 <br/>  

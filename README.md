@@ -12,10 +12,13 @@
 - 🎓 Familiarity with newer specifications of EcmaScript.
 
 
-- ⭐ Building RESTful APIs (NextJS, TypeScript, Zod)
+- ⭐ Building RESTful APIs (NextJS, TypeScript, Zod-Validation).
 
 
-- 📶 Modern Data-fetching approaches: SSG, SSR, ISR, CSR.  
+- 📶 Server-Side Rendering.
+
+
+▸ Data-Fetching: React-Query, Axios.
 
 
 - 🎀 Familiarity with Animation Libraries (Framer-Motion, React-spring).  

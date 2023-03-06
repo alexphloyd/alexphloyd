@@ -27,7 +27,7 @@
 ▸ Jest.
   
 
-▸ Agile methodology (Scrum).
+▸ Agile methodology (Scrum), Jira.
   
 
 <br/>  
